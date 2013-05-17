@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lorem",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"doctype",
+				"doctype	DOCTYPE HTML"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"ver",
+				"ver_articulo"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"for",
+				"fore	for... empty..."
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Todo",
+				"TodoArticulo"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"FFF",
+				"FFFFFF"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"bootstrap form",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"bootstrap grid",
+				"Snippet: Bootstrap basic three column grid"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html5",
+				"Snippet: HTML - HTML5 shiv"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: bootstrap f",
+				"Snippet: Bootstrap fluid layout"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/users/gdloacev/Downloads/codejobs/contactame.html",
+		"/D/users/gdloacev/Downloads/codejobs/css/bootstrap-responsive.css",
+		"/D/users/gdloacev/Downloads/codejobs/css/bootstrap.css",
+		"/D/users/gdloacev/Downloads/codejobs/tablas.html",
+		"/D/users/gdloacev/Downloads/codejobs/test.html",
+		"/D/users/gdloacev/Downloads/codejobs/js/bootstrap.js",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/Highlight Whitespaces/highlight_whitespaces.sublime-settings",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/BracketHighlighter/Default (Windows).sublime-keymap",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/User/BracketHighlighter.sublime-settings",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/files/Backup/documentos/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/templates/index.html",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/product/views.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/product/forms.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/product/urls.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/productlist/urls.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/productlist/templates/product/view.html",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todo/admin.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/templates/index.html",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todo/views.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todo/forms.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todo/urls.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/templates/base.html",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/templates/todo/ver.html",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todolist/urls.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/templates/todo/urls.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todo/models.py",
+		"/D/users/gdloacev/Documents/DjangoWebs/todolist/todolist/settings.py",
+		"/D/users/gdloacev/Documents/GitHub/proyectos/README",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/language/spanish/checkout/voucher.php",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/view/theme/default/template/checkout/voucher.tpl",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/view/theme/default/template/common/header.tpl",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/view/theme/default/template/common/home.tpl",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/catalog/view/theme/default/stylesheet/ie7.css",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/admin/view/stylesheet/stylesheet.css",
+		"/D/Disco/sitios/dayna.mx/css/loginstyle.css",
+		"/D/Disco/sitios/dayna.mx/styles/style.css",
+		"/D/Disco/sitios/dayna.mx/login.php",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/admin/controller/design/layout.php",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/admin/controller/common/home.php",
+		"/D/Disco/sitios/dayna.mx_tienda/tienda/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn ",
+			"btn",
+			"btn-p",
+			"btn ",
+			"btn",
+			"btn ",
+			"btn  ",
+			"table",
+			"carousel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true
+}
